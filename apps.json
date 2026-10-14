@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "name": "Test Proqram",
+    "packageName": "com.test.app",
+    "versionName": "1.0",
+    "versionCode": 1,
+    "iconUrl": "https://via.placeholder.com/150",
+    "apkUrl": "https://github.com/ deyil, hələlik buraya boş link qoyuruq",
+    "description": "Bu ilk test proqramıdır."
+  }
+]
